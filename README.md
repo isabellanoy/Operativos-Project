@@ -46,10 +46,9 @@ Permite:
 
 ### 1. Clonar o copiar el proyecto
 
-
+```git clone https://github.com/isabellanoy/Operativos-Project.git```
 
 Navega a tu carpeta de trabajo:
-
 
 ```cd ~/Documents```
 
